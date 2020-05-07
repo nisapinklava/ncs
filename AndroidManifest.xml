@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.my.newproject" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <application android:allowBackup="true" android:icon="@drawable/app_icon" android:label="nicest" android:largeHeap="true" android:name=".SketchApplication" android:theme="@style/AppTheme">
+        <activity android:configChanges="orientation|screenSize" android:name=".MainActivity" android:screenOrientation="portrait" android:theme="@style/NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize" android:name=".Main2Activity" android:screenOrientation="portrait" android:theme="@style/NoActionBar"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".Main3Activity" android:screenOrientation="portrait" android:theme="@style/NoActionBar"/>
+        <activity android:name=".DebugActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

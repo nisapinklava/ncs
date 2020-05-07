@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="app_icon" id="0x7f020000" />
+    <public type="drawable" name="background_20190329162649" id="0x7f020001" />
+    <public type="drawable" name="bgc_1" id="0x7f020002" />
+    <public type="drawable" name="bgc_2" id="0x7f020003" />
+    <public type="drawable" name="default_image" id="0x7f020004" />
+    <public type="drawable" name="emailandpassword_1_20190329162652" id="0x7f020005" />
+    <public type="drawable" name="emailandpassword_2_20190329162651" id="0x7f020006" />
+    <public type="drawable" name="loginn_20190329162651" id="0x7f020007" />
+    <public type="layout" name="main" id="0x7f030000" />
+    <public type="layout" name="main2" id="0x7f030001" />
+    <public type="layout" name="main3" id="0x7f030002" />
+    <public type="color" name="colorPrimary" id="0x7f040000" />
+    <public type="color" name="colorPrimaryDark" id="0x7f040001" />
+    <public type="color" name="colorAccent" id="0x7f040002" />
+    <public type="color" name="colorControlHighlight" id="0x7f040003" />
+    <public type="color" name="colorControlNormal" id="0x7f040004" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="style" name="AppTheme" id="0x7f060000" />
+    <public type="style" name="NoActionBar" id="0x7f060001" />
+    <public type="style" name="FullScreen" id="0x7f060002" />
+    <public type="style" name="NoStatusBar" id="0x7f060003" />
+    <public type="id" name="linear1" id="0x7f070000" />
+    <public type="id" name="linear12" id="0x7f070001" />
+    <public type="id" name="vscroll3" id="0x7f070002" />
+    <public type="id" name="calendarview5" id="0x7f070003" />
+    <public type="id" name="linear10" id="0x7f070004" />
+    <public type="id" name="linear11" id="0x7f070005" />
+    <public type="id" name="linear3" id="0x7f070006" />
+    <public type="id" name="button2" id="0x7f070007" />
+    <public type="id" name="linear4" id="0x7f070008" />
+    <public type="id" name="button3" id="0x7f070009" />
+    <public type="id" name="linear2" id="0x7f07000a" />
+    <public type="id" name="button1" id="0x7f07000b" />
+    <public type="id" name="vscroll2" id="0x7f07000c" />
+    <public type="id" name="edittext3" id="0x7f07000d" />
+    <public type="id" name="listview1" id="0x7f07000e" />
+    <public type="id" name="button6" id="0x7f07000f" />
+    <public type="id" name="linear5" id="0x7f070010" />
+    <public type="id" name="linear6" id="0x7f070011" />
+    <public type="id" name="linear7" id="0x7f070012" />
+    <public type="id" name="linear8" id="0x7f070013" />
+    <public type="id" name="linear9" id="0x7f070014" />
+    <public type="id" name="vscroll1" id="0x7f070015" />
+    <public type="id" name="edittext2" id="0x7f070016" />
+</resources>

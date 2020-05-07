@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="linear1" />
+    <item type="id" name="linear12" />
+    <item type="id" name="vscroll3" />
+    <item type="id" name="calendarview5" />
+    <item type="id" name="linear10" />
+    <item type="id" name="linear11" />
+    <item type="id" name="linear3" />
+    <item type="id" name="button2" />
+    <item type="id" name="linear4" />
+    <item type="id" name="button3" />
+    <item type="id" name="linear2" />
+    <item type="id" name="button1" />
+    <item type="id" name="vscroll2" />
+    <item type="id" name="edittext3" />
+    <item type="id" name="listview1" />
+    <item type="id" name="button6" />
+    <item type="id" name="linear5" />
+    <item type="id" name="linear6" />
+    <item type="id" name="linear7" />
+    <item type="id" name="linear8" />
+    <item type="id" name="linear9" />
+    <item type="id" name="vscroll1" />
+    <item type="id" name="edittext2" />
+</resources>

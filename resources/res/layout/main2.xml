@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/linear3" android:background="#ff80ab" android:padding="8dp" android:layout_width="match_parent" android:layout_height="80dp">
+        <LinearLayout android:orientation="horizontal" android:id="@+id/linear11" android:background="#ff4081" android:padding="8dp" android:layout_width="260dp" android:layout_height="61dp">
+            <EditText android:textSize="20sp" android:textStyle="italic" android:textColor="#fce4ec" android:textColorHint="#fce4ec" android:id="@+id/edittext3" android:background="@android:color/transparent" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:hint="Tap to Text here ..."/>
+        </LinearLayout>
+        <Button android:textSize="20sp" android:textColor="#fce4ec" android:id="@+id/button3" android:background="#d81b60" android:padding="8dp" android:layout_width="80dp" android:layout_height="60dp" android:text="Done"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/linear10" android:background="#f06292" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ScrollView android:id="@+id/vscroll3" android:background="#e91e63" android:padding="8dp" android:layout_width="match_parent" android:layout_height="420dp">
+            <ListView android:id="@+id/listview1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:choiceMode="none"/>
+        </ScrollView>
+        <Button android:textSize="20sp" android:textColor="#fce4ec" android:id="@+id/button6" android:background="#ff4081" android:padding="8dp" android:layout_width="match_parent" android:layout_height="90dp" android:layout_marginTop="10dp" android:text="Save list"/>
+    </LinearLayout>
+</LinearLayout>

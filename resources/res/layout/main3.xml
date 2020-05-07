@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/linear5" android:background="#e91e63" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/linear6" android:background="#ec407a" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/linear7" android:background="#f06292" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/linear8" android:background="#f48fb1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/linear9" android:background="#f8bbd0" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <Button android:textSize="20sp" android:textStyle="bold" android:textColor="#fce4ec" android:id="@+id/button2" android:background="#e91e63" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text=" Save Notes "/>
+        <ScrollView android:id="@+id/vscroll1" android:background="#f48fb1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+            <EditText android:textSize="20sp" android:textStyle="italic" android:textColor="#fce4ec" android:textColorHint="#fce4ec" android:id="@+id/edittext2" android:background="#ec407a" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Say something that urgent here .."/>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

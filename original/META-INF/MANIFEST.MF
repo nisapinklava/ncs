@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: DwBlKYWaRVJagmFvrbKHjMkxm5w=
+
+Name: res/layout/main.xml
+SHA1-Digest: JLR8rMGsWPqGFVfFoBO1Ivc1Tao=
+
+Name: res/drawable-xhdpi-v4/background_20190329162649.png
+SHA1-Digest: 5vXN+aIP4Xvuy4YEmgbY4T3ddOc=
+
+Name: res/drawable-xhdpi-v4/bgc_1.png
+SHA1-Digest: MtD7mGjZkKIPP5M8lRzguzrV7Gg=
+
+Name: res/drawable-xhdpi-v4/emailandpassword_2_20190329162651.png
+SHA1-Digest: Zj3XptL21dXeNyyLtmPguywUKnI=
+
+Name: res/drawable-xhdpi-v4/bgc_2.png
+SHA1-Digest: nBC30xwe7YAJleTRsFk8vGXLCig=
+
+Name: res/drawable-xhdpi-v4/loginn_20190329162651.png
+SHA1-Digest: v9jsnJrriqLp8kH21CqXXEKWcRY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: sIvH6fLajcyM9Nxz+1H2FF/btNM=
+
+Name: res/layout/main2.xml
+SHA1-Digest: Oabcci62cLSPjSMxK2NRrUu+kXg=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: BWRAoPVos58zRwxvNCq1nyPEM9U=
+
+Name: resources.arsc
+SHA1-Digest: iMOAqSqvnvitJ8Hx6/ny/wrkBnU=
+
+Name: res/drawable-xhdpi-v4/emailandpassword_1_20190329162652.png
+SHA1-Digest: o0BLZAaq15OuV1r6/MQQhtUFJvo=
+
+Name: classes.dex
+SHA1-Digest: hXKcBPKTs6idokvXcXiOsq539HU=
+
+Name: res/layout/main3.xml
+SHA1-Digest: MTupE2V9J5IjpRRomEKMGihNA8Y=
+
